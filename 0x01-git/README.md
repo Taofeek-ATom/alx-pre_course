@@ -1,1 +1,1 @@
-readme file in new directory
+how to update a README.md
